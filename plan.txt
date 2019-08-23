@@ -1,0 +1,15 @@
+# python-basics-weekly-3
+
+## Create a bank program.
+step 1:
+Create a main menu. Where user selects an option- Tested- OK
+step2:
+Create a way so that the users is asked for choices unless the user decides to quit creating a loop.-Testes -OK
+step 3:
+Ask the user ot how much monies would they like to withdraw . Tested OK
+step 4
+check if the user did not have enough funds and prompt them insufficient funds -Tested OK
+step 5
+if the balance is enough ask them to collect monies and print their new balance- Tested OK
+step 6
+Ask user for their name and pin Tested-OK
