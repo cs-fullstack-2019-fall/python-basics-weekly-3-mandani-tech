@@ -1,3 +1,7 @@
+#### Excellent work on this one! Some nice personal touches and design/test approach was perfect.
+####  Especially given that you went back to your plan and recorded test results.
+#### See comments in your code. You just had one bit of repeating code that was unnecessary.
+
 # python-basics-weekly-3
 
 ## Create a bank program.
