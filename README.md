@@ -1,6 +1,6 @@
-#### Excellent work on this one! Some nice personal touches and design/test approach was perfect.
-####  Especially given that you went back to your plan and recorded test results.
-#### See comments in your code. You just had one bit of repeating code that was unnecessary.
+#### VERY nice work! Great comments, easy to read and follow. Well done!
+####
+#### Showing the current balance as part of a deposit or with draw was a *really* nice touch!
 
 # python-basics-weekly-3
 
